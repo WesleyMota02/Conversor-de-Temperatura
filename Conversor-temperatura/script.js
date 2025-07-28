@@ -1,4 +1,4 @@
-// Obtém referências aos elementos HTML
+
 const temperatureInput = document.getElementById('temperaturainput');
 const fromUnitSelect = document.getElementById('fromUnit');
 const toUnitSelect = document.getElementById('toUnit');
