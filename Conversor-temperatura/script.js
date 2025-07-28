@@ -1,4 +1,3 @@
-
 const temperatureInput = document.getElementById('temperaturainput');
 const fromUnitSelect = document.getElementById('fromUnit');
 const toUnitSelect = document.getElementById('toUnit');
